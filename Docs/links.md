@@ -2,10 +2,10 @@
 
 ## Tutoriais
 
+* http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions
 * https://rpgmaker.net/tutorials/1124/
 * https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/top-down-2d-game-basics
 * https://www.raywenderlich.com/61532/unity-2d-tutorial-getting-started
-* 
 
 ## Assets
 
